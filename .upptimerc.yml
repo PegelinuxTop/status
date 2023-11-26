@@ -13,19 +13,23 @@ sites:
     url: https://youtube.pegelinux.top/preferences
   - name: IRC
     url: https://irc.pegelinux.top
+  - name: DNS
+    url: https://doh.rezhajul.io
+assignees: # Users to assign downtime issues (optional)
+  - rezhajulio
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: status.pegelinux.top
-  baseUrl: /status
+  baseUrl: /status/
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Pegelinux Status Page
   introTitle: Status of Services hosted by Pegelinux
   introMessage: Updated every 5 minutes.
   navbar:
     - title: Status
-      href: /
+      href: /status/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
