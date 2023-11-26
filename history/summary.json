@@ -4,19 +4,19 @@
     "url": "https://pegelinux.top/about",
     "icon": "https://icons.duckduckgo.com/ip3/pegelinux.top.ico",
     "slug": "pegelinux",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1710,
-    "timeDay": 1710,
-    "timeWeek": 1710,
-    "timeMonth": 1710,
-    "timeYear": 1710,
+    "status": "up",
+    "uptime": "97.08%",
+    "uptimeDay": "97.08%",
+    "uptimeWeek": "97.08%",
+    "uptimeMonth": "97.08%",
+    "uptimeYear": "97.08%",
+    "time": 1518,
+    "timeDay": 1518,
+    "timeWeek": 1518,
+    "timeMonth": 1518,
+    "timeYear": 1518,
     "dailyMinutesDown": {
-      "2023-11-26": 0
+      "2023-11-26": 27
     }
   },
   {
