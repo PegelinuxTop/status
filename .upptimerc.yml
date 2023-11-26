@@ -11,12 +11,14 @@ sites:
     url: https://nitter.pegelinux.top
   - name: Invidious
     url: https://youtube.pegelinux.top/preferences
+  - name: IRC
+    url: https://irc.pegelinux.top
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  # cname: status.pegelinux.top
+  baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Pegelinux Status Page
   introTitle: Status of Services hosted by Pegelinux
