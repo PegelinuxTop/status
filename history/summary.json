@@ -78,19 +78,19 @@
     "url": "https://irc.pegelinux.top",
     "icon": "https://icons.duckduckgo.com/ip3/irc.pegelinux.top.ico",
     "slug": "irc",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1023,
-    "timeDay": 679,
-    "timeWeek": 1023,
-    "timeMonth": 1023,
-    "timeYear": 1023,
+    "status": "up",
+    "uptime": "99.61%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.61%",
+    "time": 968,
+    "timeDay": 666,
+    "timeWeek": 968,
+    "timeMonth": 968,
+    "timeYear": 968,
     "dailyMinutesDown": {
-      "2023-11-29": 0
+      "2023-11-29": 20
     }
   },
   {
